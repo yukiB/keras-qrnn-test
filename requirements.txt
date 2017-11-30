@@ -1,0 +1,7 @@
+matplotlib==2.0.0
+tensorflow==1.2.1
+Keras==2.0.5
+pandas==0.19.2
+numpy==1.13.0
+scipy==0.18.1
+
